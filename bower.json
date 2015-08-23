@@ -27,6 +27,7 @@
     "*.md"
   ],
   "dependencies": {
+    "bpg-arial": "~0.0.1",
     "bpg-banner": "~0.0.7",
     "bpg-banner-caps": "~0.0.4",
     "bpg-mrgvlovani": "~0.0.1",
