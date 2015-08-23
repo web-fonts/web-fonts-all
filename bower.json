@@ -1,0 +1,37 @@
+{
+  "name": "web-fonts-all",
+  "description": "All Web Fonts In A Single Package",
+  "keywords": [
+    "ttf",
+    "woff",
+    "woff2",
+    "svg",
+    "font",
+    "web-font"
+  ],
+  "homepage": "https://github.com/web-fonts/web-fonts-all",
+  "authors": [
+    "Lado Lomidze <lado.lomidze@gmail.com>"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/web-fonts/web-fonts-all.git"
+  },
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "*.md"
+  ],
+  "dependencies": {
+    "bpg-banner": "~0.0.7",
+    "bpg-banner-caps": "~0.0.4",
+    "bpg-mrgvlovani": "~0.0.1",
+    "bpg-mrgvlovani-caps": "~0.0.1",
+    "bpg-nino-mtavruli": "~0.0.1",
+    "bpg-nino-mtavruli-bold": "~0.0.1"
+  }
+}
