@@ -36,6 +36,8 @@
     "bpg-arial": "~0.0.1",
     "bpg-banner": "~0.0.7",
     "bpg-banner-caps": "~0.0.4",
+    "bpg-banner-supersquare": "~0.0.1",
+    "bpg-banner-supersquare-caps": "~0.0.1",
     "bpg-boxo": "~0.0.1",
     "bpg-boxo-boxo": "~0.0.1",
     "bpg-classic-medium": "~0.0.1",
@@ -56,6 +58,7 @@
     "bpg-nino-mtavruli-book": "~0.0.1",
     "bpg-square": "~0.0.1",
     "bpg-square-mtavruli": "~0.0.1",
+    "bpg-supersquare-mtavruli": "~0.0.1",
     "bpg-ucnobi": "~0.0.1"
   }
 }
