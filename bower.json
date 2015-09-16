@@ -27,7 +27,6 @@
     "*.md"
   ],
   "dependencies": {
-    "alk-katerina": "~1.0.0",
     "alk-life": "~1.0.0",
     "alk-rex-bold": "~1.0.0",
     "alk-rounded-mtav-med": "~1.0.0",
