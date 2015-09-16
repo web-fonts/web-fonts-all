@@ -27,6 +27,17 @@
     "*.md"
   ],
   "dependencies": {
+    "alk-katerina": "~1.0.0",
+    "alk-life": "~1.0.0",
+    "alk-rex-bold": "~1.0.0",
+    "alk-rounded-mtav-med": "~1.0.0",
+    "alk-rounded-nusx-med": "~1.0.0",
+    "alk-sanet": "~1.0.0",
+    "alk-tall-mtavruli": "~1.0.0",
+    "alk-tall-nusxuri": "~1.0.0",
+    "alk-tommaso": "~1.0.0",
+    "alkbasri-light": "~1.0.0",
+    "alkdots": "~1.0.0",
     "archyedt-bold": "~1.0.0",
     "archyedt-thin": "~1.0.1",
     "arial-geo": "~1.0.0",
