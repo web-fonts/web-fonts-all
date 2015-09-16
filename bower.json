@@ -27,6 +27,8 @@
     "*.md"
   ],
   "dependencies": {
+    "archyedt-bold": "~1.0.0",
+    "archyedt-thin": "~1.0.1",
     "arial-geo": "~1.0.0",
     "arial-geo-bold": "~1.0.0",
     "arial-geo-bolditalic": "~1.0.0",
@@ -71,6 +73,12 @@
     "bpg-square": "~1.0.0",
     "bpg-square-mtavruli": "~1.0.0",
     "bpg-supersquare-mtavruli": "~1.0.0",
-    "bpg-ucnobi": "~1.0.0"
+    "bpg-ucnobi": "~1.0.0",
+    "ka-kolheti": "~1.0.0",
+    "ka-lortkipanidze": "~1.0.0",
+    "mg-bitneon": "~1.0.0",
+    "mg-bitneon-chaos": "~1.0.0",
+    "mg-bitneon-hollow": "~1.0.0",
+    "mg-glaho-drunk": "~1.0.0"
   }
 }
