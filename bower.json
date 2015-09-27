@@ -133,6 +133,12 @@
     "mg-bitneon-hollow": "~1.0.0",
     "mg-glaho-drunk": "~1.0.0",
     "bpg-le-studio-04-caps": "~1.0.0",
-    "bpg-le-studio-04": "~1.0.0"
+    "bpg-le-studio-04": "~1.0.0",
+    "bpg-web-001": "~1.0.0",
+    "bpg-web-001-caps": "~1.0.0",
+    "bpg-web-002": "~1.0.0",
+    "bpg-web-002-caps": "~1.0.0",
+    "bpg-glaho-web": "~1.0.0",
+    "bpg-glaho-web-caps": "~1.0.0"
   }
 }
