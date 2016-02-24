@@ -139,6 +139,7 @@
     "bpg-web-002": "~1.0.0",
     "bpg-web-002-caps": "~1.0.0",
     "bpg-glaho-web": "~1.0.0",
-    "bpg-glaho-web-caps": "~1.0.0"
+    "bpg-glaho-web-caps": "~1.0.0",
+    "bpg-arial-caps": "^1.0.0"
   }
 }
