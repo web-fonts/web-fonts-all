@@ -140,6 +140,14 @@
     "bpg-web-002-caps": "~1.0.0",
     "bpg-glaho-web": "~1.0.0",
     "bpg-glaho-web-caps": "~1.0.0",
-    "bpg-arial-caps": "^1.0.0"
+    "bpg-arial-caps": "^1.0.0",
+    "dejavu-sans-condensed-bold-oblique": "^1.0.0",
+    "dejavu-sans-condensed-oblique": "^1.0.0",
+    "dejavu-sans-condensed-bold": "^1.0.0",
+    "dejavu-sans-bold-oblique": "^1.0.0",
+    "dejavu-sans-extra-light": "^1.0.0",
+    "dejavu-sans-condensed": "^1.0.0",
+    "dejavu-sans-oblique": "^1.0.0",
+    "dejavu-sans-bold": "^1.0.0"
   }
 }
